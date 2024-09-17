@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="w03-kereta:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/w03_kereta_jar</output-path>
+    <root id="archive" name="w03-kereta.jar">
+      <element id="module-output" name="w03-kereta" />
+    </root>
+  </artifact>
+</component>
